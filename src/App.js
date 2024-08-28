@@ -5,7 +5,7 @@ import SearchBar from './views/search bar/SearchBar';
 function App() {
   return (
     <div >
-     <SearchBar/>
+     <SearchBar/> 
     </div>
   );
 }
